@@ -25,8 +25,8 @@ use 'mvn test' command to BUILD
 
 ### Break down into end to end tests
 
-GET_DATA,
-POST_DATA,
+GET_DATA, 
+POST_DATA and 
 PUT_DATA
 
 ### And coding style tests
